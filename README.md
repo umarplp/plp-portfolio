@@ -56,16 +56,15 @@ I lead **Cybersquad New Generation**, offering free tech training to beginners a
 
 ---
 
-## 🚀 Projects
+## 📸 Project Gallery
 
-1. **📘 Turn Your Android Into a Hacker Toolkit**  
-   An eBook for ethical hackers using Android phones.
+Smart Attendance System (Honora App): Uses facial recognition to mark student attendance.
 
-2. **📱 Honora Attendance App**  
-   A fingerprint-based attendance system using Firebase.
-
----
-
+![Screenshot 1](assets/project1.png)
+![Screenshot 2](assets/project2.png)
+![Screenshot 3](assets/project3.png)
+![Screenshot 4](assets/project3.png)
+![Screenshot 5](assets/project3.png)
 ## 💡 Interests
 
 Cybersecurity Education, Mobile Hacking, OSINT, Research, Ethical AI, Mentorship, Community Impact
@@ -74,8 +73,7 @@ Cybersecurity Education, Mobile Hacking, OSINT, Research, Ethical AI, Mentorship
 
 ## 📬 Contact Me
 
-The site includes a functional contact form (powered by [Formspree](https://formspree.io/))  
-You can send me a message from the [Contact](#contact) section!
+The site includes a functional contact form
 
 ---
 
